@@ -28,7 +28,7 @@ What I Learned
 Screenshot
 
 [Full page preview](fullscreen.jpeg)
-[Emulated phone screen preview using dev tools}(responsive.jpeg)
+[Emulated phone screen preview using dev tools](responsive.jpeg)
 
 How to Use
 
